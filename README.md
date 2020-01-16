@@ -1,4 +1,4 @@
-![DanLilydotAI](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![DanLilydotAI](https://github.com/llondonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
 # BMI Calculator 💪
