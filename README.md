@@ -9,7 +9,7 @@ objective of this project is to look at how we can customise Flutter Widgets to 
 
 * Customizing widgets
 * Refactoring (avoiding spaggetti code)
-* 
+* Changing input values
 
 
 ## What you will create
